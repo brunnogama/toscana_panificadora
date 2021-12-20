@@ -1,4 +1,26 @@
+* {margin: 0;}
+
+
 h1 {
     font-family: 'PT Sans Narrow', sans-serif;
     font-size: 80px;
+    color: white;
+    text-align: center;
+   
+}
+
+header {
+
+    height: 220px;
+    border: 1px;
+    padding: 3px;
+
+    background-color: black;
+    background-image: url(logos/logo.png) ;
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-origin: content-box;
+
+
+
 }
